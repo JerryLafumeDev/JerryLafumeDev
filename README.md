@@ -1,5 +1,5 @@
 <a target="_blank" href="">
-  <img src="https://imgur.com/r2HbSHt" width="100%">
+  <img src="https://i.imgur.com/r2HbSHt.gif" width="100%">
 </a>
 
 <p align="center">
